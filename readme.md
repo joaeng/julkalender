@@ -11,7 +11,7 @@ Använd fantasin ! =)
 ## Installation
 
 Ladda upp på egen webserver.
-Anpassa dina bilder i mappen /bilder
+Anpassa dina bilder i mappen /bilder <br>
 Generera en qr-kod som leder till /index.php
 
 ## Usage
